@@ -60,14 +60,16 @@
   </defs>
   <ellipse style="fill: url(#colour-users);" cx="640" cy="375" rx="780" ry="475"/>
   <ellipse style="fill: url(#colour-services);" cx="637.455" cy="274.184" rx="780" ry="475"/>
-  <ellipse style="fill: url(#colour-platforms);" cx="642" cy="75" rx="780" ry="475"/>
-  <ellipse style="fill: url(#colour-processes);" cx="640" cy="-100" rx="780" ry="475"/>
+  <ellipse style="fill: url(#colour-platforms);" cx="637.455" cy="88.433" rx="780" ry="475"/>
+  <ellipse style="fill: url(#colour-processes);" cx="637.455" cy="-103.694" rx="780" ry="475"/>
+  <path d="M 248.254 146.125 H 405.047 L 405.047 133.625 L 435.537 151.125 L 405.047 168.625 L 405.047 156.125 H 248.254 V 146.125 Z" style="fill: rgb(216, 216, 216);" transform="matrix(-0.469488, 0.882939, -0.882939, -0.469488, 459.4198, -16.096016)" bx:shape="arrow 248.254 133.625 187.283 35 10 30.49 0 1@b7152454"/>
   <ellipse style="fill: url(#colour-registers);" cx="640" cy="-250" rx="780" ry="475"/>
   <ellipse style="fill: url(#colour-standards);" cx="697.854" cy="-306.692" rx="780" ry="475"/>
   <text style="font-family: Roboto; font-size: 26px; white-space: pre;" x="101.015" y="862.154">People finding information about land, planning and housing where they are already looking</text>
   <text transform="matrix(0.999971, 0.007456, -0.007456, 0.999971, -12.460264, -276.957458)" style="fill: rgb(51, 51, 51); font-family: Roboto; font-size: 26px; letter-spacing: 1px; white-space: pre;" bx:origin="0.489 0.483"><textPath startOffset="788" xlink:href="#users-path">A marketplace of new digital services</textPath></text>
   <text transform="matrix(0.999971, 0.007456, -0.007456, 0.999971, 1.922617, -452.321106)" style="fill: rgb(51, 51, 51); font-family: Roboto; font-size: 26px; letter-spacing: 1px; white-space: pre;" bx:origin="0.489 0.483"><textPath startOffset="658" xlink:href="#path-1">Platforms: services which help people build digital services</textPath></text>
   <text transform="matrix(0.999971, 0.007456, -0.007456, 0.999971, -12.883772, -591.278748)" style="fill: rgb(51, 51, 51); font-family: Roboto; font-size: 26px; letter-spacing: 1px; white-space: pre;" bx:origin="0.489 0.483"><textPath startOffset="407" xlink:href="#path-2">                 Devolved land and planning services                        Other government services</textPath></text>
+  <path d="M 82.049 102.902 H 266.999 L 266.999 90.402 L 300.387 107.902 L 266.999 125.402 L 266.999 112.902 H 82.049 V 102.902 Z" style="fill: rgb(216, 216, 216);" transform="matrix(0.007908, 0.999969, -0.999969, 0.007908, 175.77829, -10.236062)" bx:shape="arrow 82.049 90.402 218.338 35 10 33.389 0 1@ae7ca6ed"/>
   <text transform="matrix(0.999971, 0.007456, -0.007456, 0.999971, -6.077364, -681.278748)" style="fill: rgb(51, 51, 51); font-family: Roboto; font-size: 26px; letter-spacing: 1px; white-space: pre;" bx:origin="0.489 0.483"><textPath startOffset="434" xlink:href="#path-3">Shared evidence Bases          Registers: authoratitve data you can trust         Monitoring information</textPath></text>
   <text x="674.855" y="180.571" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Roboto Slab&quot;; font-size: 28px;"> </text>
   <text style="font-family: Roboto; font-size: 26px; white-space: pre;" x="400.008" y="39.164">Data standards, policies and regulations</text>
@@ -303,5 +305,38 @@
       <line style="stroke: rgb(0, 0, 0);" x1="514.24" y1="124.66" x2="564.319" y2="125"/>
     </g>
   </g>
-  <rect x="100" y="82.207" width="48.653" height="50.037" style="fill: rgb(216, 216, 216);"/>
+  <g transform="matrix(1, 0, 0, 1, -26.497063, -19.830242)">
+    <circle style="fill: url(#color-0);" cx="99.001" cy="83.881" r="9.378"/>
+    <circle style="fill: url(#color-0);" cx="118.358" cy="86.091" r="4.847" bx:origin="1.477 0.843"/>
+    <circle style="fill: url(#color-0);" cx="113.226" cy="102.192" r="4.847" bx:origin="1.477 0.843"/>
+    <circle style="fill: url(#color-0);" cx="79.012" cy="98.106" r="4.847" bx:origin="1.477 0.843"/>
+    <circle style="fill: url(#color-0);" cx="95.153" cy="111.886" r="7.355" transform="matrix(1, 0, 0, 1.000001, 0.020722, 1.015654)" bx:origin="1.477 0.843"/>
+    <line style="stroke: rgb(0, 0, 0);" x1="79.93" y1="97.345" x2="98.047" y2="84.643"/>
+    <line style="stroke: rgb(0, 0, 0);" x1="99.166" y1="85.929" x2="94.979" y2="109.062"/>
+    <line style="stroke: rgb(0, 0, 0);" x1="101.695" y1="87.499" x2="110.816" y2="100"/>
+    <line style="stroke: rgb(0, 0, 0);" x1="101.695" y1="83.395" x2="118.073" y2="85.929"/>
+  </g>
+  <g transform="matrix(0.553231, 0, 0, 0.646033, 158.96962, 73.435158)" style="">
+    <circle style="fill: url(#color-0);" cx="99.001" cy="83.881" r="9.378"/>
+    <circle style="fill: url(#color-0);" cx="118.358" cy="86.091" r="4.847" bx:origin="1.477 0.843"/>
+    <circle style="fill: url(#color-0);" cx="113.226" cy="102.192" r="4.847" bx:origin="1.477 0.843"/>
+    <circle style="fill: url(#color-0);" cx="79.012" cy="98.106" r="4.847" bx:origin="1.477 0.843"/>
+    <circle style="fill: url(#color-0);" cx="95.153" cy="111.886" r="7.355" transform="matrix(1, 0, 0, 1.000001, 0.020722, 1.015654)" bx:origin="1.477 0.843"/>
+    <line style="stroke: rgb(0, 0, 0);" x1="79.93" y1="97.345" x2="98.047" y2="84.643"/>
+    <line style="stroke: rgb(0, 0, 0);" x1="99.166" y1="85.929" x2="94.979" y2="109.062"/>
+    <line style="stroke: rgb(0, 0, 0);" x1="101.695" y1="87.499" x2="110.816" y2="100"/>
+    <line style="stroke: rgb(0, 0, 0);" x1="101.695" y1="83.395" x2="118.073" y2="85.929"/>
+  </g>
+  <path d="M 68.79 102.902 H 223.85 L 223.85 90.402 L 251.843 107.902 L 223.85 125.402 L 223.85 112.902 H 68.79 V 102.902 Z" style="fill: rgb(216, 216, 216);" transform="matrix(-0.224898, 0.974382, -0.974382, -0.224898, 265.262054, 71.504799)" bx:shape="arrow 68.79 90.402 183.053 35 10 27.993 0 1@c44e30ef"/>
+  <g transform="matrix(0.553231, 0, 0, 0.646033, 93.544411, 52.295132)" style="">
+    <circle style="fill: url(#color-0);" cx="99.001" cy="83.881" r="9.378"/>
+    <circle style="fill: url(#color-0);" cx="118.358" cy="86.091" r="4.847" bx:origin="1.477 0.843"/>
+    <circle style="fill: url(#color-0);" cx="113.226" cy="102.192" r="4.847" bx:origin="1.477 0.843"/>
+    <circle style="fill: url(#color-0);" cx="79.012" cy="98.106" r="4.847" bx:origin="1.477 0.843"/>
+    <circle style="fill: url(#color-0);" cx="95.153" cy="111.886" r="7.355" transform="matrix(1, 0, 0, 1.000001, 0.020722, 1.015654)" bx:origin="1.477 0.843"/>
+    <line style="stroke: rgb(0, 0, 0);" x1="79.93" y1="97.345" x2="98.047" y2="84.643"/>
+    <line style="stroke: rgb(0, 0, 0);" x1="99.166" y1="85.929" x2="94.979" y2="109.062"/>
+    <line style="stroke: rgb(0, 0, 0);" x1="101.695" y1="87.499" x2="110.816" y2="100"/>
+    <line style="stroke: rgb(0, 0, 0);" x1="101.695" y1="83.395" x2="118.073" y2="85.929"/>
+  </g>
 </svg>
