@@ -65,10 +65,12 @@
   <ellipse style="fill: url(#colour-services);" cx="637.455" cy="274.184" rx="780" ry="475"/>
   <ellipse style="fill: url(#colour-platforms);" cx="629" cy="67.125" rx="780" ry="475"/>
   <ellipse style="fill: url(#colour-processes);" cx="637.455" cy="-103.694" rx="780" ry="475"/>
+  <line style="stroke: rgb(0, 0, 0);" x1="850.7965087890625" y1="270.859375" x2="767.8714866638184" y2="226.328125"/>
   <path d="M 248.254 146.125 H 405.047 L 405.047 133.625 L 435.537 151.125 L 405.047 168.625 L 405.047 156.125 H 248.254 V 146.125 Z" style="fill: rgb(216, 216, 216);" transform="matrix(-0.469488, 0.882939, -0.882939, -0.469488, 459.4198, -16.096016)" bx:shape="arrow 248.254 133.625 187.283 35 10 30.49 0 1@b7152454"/>
   <ellipse style="fill: url(#colour-registers);" cx="640" cy="-250" rx="780" ry="475"/>
   <ellipse style="fill: url(#colour-standards);" cx="637.455" cy="-345.015" rx="780" ry="475"/>
   <text style="font-family: Roboto; font-size: 26px; white-space: pre;" x="101.015" y="862.154">People finding information about land, planning and housing where they are already looking</text>
+  <path d="M 1183.642 386.138 H 1470.421 L 1470.421 371.138 L 1513.075 391.138 L 1470.421 411.138 L 1470.421 396.138 H 1183.642 V 386.138 Z" style="fill: rgb(216, 216, 216);" transform="matrix(-0.741538, 0.670911, -0.670911, -0.741538, 2265.327881, -126.688889)" bx:shape="arrow 1183.642 371.138 329.433 40 10 42.654 0 1@310f61d9"/>
   <text transform="matrix(0.999971, 0.007456, -0.007456, 0.999971, -12.460264, -276.957458)" style="fill: rgb(51, 51, 51); font-family: Roboto; font-size: 26px; letter-spacing: 1px; white-space: pre;" bx:origin="0.489 0.483"><textPath startOffset="788" xlink:href="#users-path">A marketplace of new digital services</textPath></text>
   <path d="M 607.267 220 H 832.67 L 832.67 205 L 872.67 225 L 832.67 245 L 832.67 230 H 607.267 V 220 Z" style="fill: rgb(216, 216, 216);" transform="matrix(0.487516, 0.873114, -0.873114, 0.487516, 507.665375, -414.904846)" bx:shape="arrow 607.267 205 265.403 40 10 40 0 1@1aff38b7"/>
   <path d="M 567.94 229.859 H 875.255 L 875.255 214.859 L 917.702 234.859 L 875.255 254.859 L 875.255 239.859 H 567.94 V 229.859 Z" style="fill: rgb(216, 216, 216);" transform="matrix(0.634358, 0.773039, -0.773039, 0.634358, 343.697174, -368.749756)" bx:shape="arrow 567.94 214.859 349.762 40 10 42.446 0 1@2ffa4b3a"/>
@@ -106,7 +108,6 @@
   <path d="M 82.049 102.902 H 266.998 L 266.998 90.402 L 300.387 107.902 L 266.998 125.402 L 266.998 112.902 H 82.049 V 102.902 Z" style="fill: rgb(216, 216, 216);" transform="matrix(0.225004, 0.974358, -0.974358, 0.225004, 778.568848, 124.714088)" bx:shape="arrow 82.049 90.402 218.338 35 10 33.389 0 1@42eecacd"/>
   <path d="M 526.723 441.938 H 580.356 L 580.356 426.938 L 620.356 446.938 L 580.356 466.938 L 580.356 451.938 H 526.723 V 441.938 Z" style="fill: rgb(216, 216, 216);" transform="matrix(0.111887, -0.993721, 0.993721, 0.111887, 23.658365, 920.347717)" bx:shape="arrow 526.723 426.938 93.633 40 10 40 0 1@3f6a7867"/>
   <path d="M 268.888 438.879 H 335.633 L 335.633 423.879 L 356.849 443.879 L 335.633 463.879 L 335.633 448.879 H 268.888 V 438.879 Z" style="fill: rgb(216, 216, 216);" transform="matrix(-0.152972, -0.988231, 0.988231, -0.152972, 109.436134, 777.503113)" bx:shape="arrow 268.888 423.879 87.961 40 10 21.216 0 1@04ca7848"/>
-  <text transform="matrix(0.999971, 0.007456, -0.007456, 0.999971, -12.883772, -591.278748)" style="fill: rgb(51, 51, 51); font-family: Roboto; font-size: 26px; letter-spacing: 1px; white-space: pre;" bx:origin="0.489 0.483"><textPath startOffset="407" xlink:href="#path-2">                 Devolved land and planning services                        Central government services</textPath></text>
   <path d="M 82.049 102.902 H 266.999 L 266.999 90.402 L 300.387 107.902 L 266.999 125.402 L 266.999 112.902 H 82.049 V 102.902 Z" style="fill: rgb(216, 216, 216);" transform="matrix(0.007908, 0.999969, -0.999969, 0.007908, 175.77829, -10.236062)" bx:shape="arrow 82.049 90.402 218.338 35 10 33.389 0 1@ae7ca6ed"/>
   <text transform="matrix(0.999971, 0.007456, -0.007456, 0.999971, -6.077364, -681.278748)" style="fill: rgb(51, 51, 51); font-family: Roboto; font-size: 26px; letter-spacing: 1px; white-space: pre;" bx:origin="0.489 0.483"><textPath startOffset="434" xlink:href="#path-3">Shared evidence Bases          Registers: authoratitve data you can trust         Monitoring information</textPath></text>
   <text x="674.855" y="180.571" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Roboto Slab&quot;; font-size: 28px;"> </text>
@@ -133,6 +134,7 @@
   <text x="39.955" y="653.999" style="white-space: pre; fill: rgb(51, 51, 51); font-family: WeePeople; font-size: 68px;">s</text>
   <text x="1089.338" y="754" style="white-space: pre; fill: rgb(51, 51, 51); font-family: WeePeople; font-size: 68px;">t</text>
   <text x="144.781" y="686.25" style="white-space: pre; fill: rgb(51, 51, 51); font-family: WeePeople; font-size: 68px;">u</text>
+  <path d="M 621.297 608.237 H 715.885 L 715.885 593.237 L 755.885 613.237 L 715.885 633.237 L 715.885 618.237 H 621.297 V 608.237 Z" style="fill: rgb(216, 216, 216);" transform="matrix(-0.504096, -0.863648, 0.863648, -0.504096, 404.869415, 1458.948975)" bx:shape="arrow 621.297 593.237 134.588 40 10 40 0 1@d440d7bd"/>
   <g transform="matrix(1, 0, 0, 1, 111.698509, -37.587212)">
     <g>
       <text style="fill: rgb(51, 51, 51); font-family: &quot;Roboto Slab&quot;; font-size: 12px; white-space: pre;" transform="matrix(1, 0, 0, 1, -79.828125, 10.75)"><tspan x="1085.77" y="620.353">This cycle lane will be</tspan><tspan x="1085.77001953125" dy="1em">​</tspan><tspan>safer on the other side <tspan x="1085.77001953125" dy="1em">​</tspan>of the road?</tspan><tspan x="1085.77001953125" dy="1em">​</tspan></text>
@@ -190,7 +192,7 @@
     <line style="stroke: rgb(0, 0, 0); stroke-width: 6px;" x1="741.5" y1="515.859" x2="836.516" y2="515.859"/>
   </g>
   <g transform="matrix(1, 0, 0, 1, 141.848419, 22.454008)"/>
-  <g transform="matrix(1, 0, 0, 1, 292.883545, -89.277466)">
+  <g transform="matrix(1, 0, 0, 1, 292.798218, -59.964478)">
     <g transform="matrix(1, 0, 0, 1, 14.116972, -8.207541)">
       <g>
         <g transform="matrix(1.043928, 0, 0, 0.868247, 479.967926, 201.875763)" style="">
@@ -208,7 +210,7 @@
   <rect x="573.549" y="50.123" width="50.079" height="9.597" style="fill: url(#color-0);"/>
   <text style="fill: url(#colour-users); font-family: &quot;Roboto Slab&quot;; font-size: 8px; font-weight: 300; white-space: pre;" x="576.698" y="57.521">Regulations</text>
   <g/>
-  <g transform="matrix(0.623332, 0, 0, 0.623332, 306.396118, 76.602257)" style="">
+  <g transform="matrix(0.623332, 0, 0, 0.623332, 401.362305, 80.277168)" style="">
     <g transform="matrix(1, 0, 0, 1, -64.31897, 102.450127)">
       <rect x="514.24" y="76.94" width="50.079" height="55.924" style="fill: url(#colour-users); stroke: url(#color-0);"/>
       <line style="stroke: rgb(0, 0, 0);" x1="514.24" y1="92.896" x2="564.319" y2="93.236"/>
@@ -219,7 +221,7 @@
       <line style="stroke: rgb(0, 0, 0);" x1="514.24" y1="124.66" x2="564.319" y2="125"/>
     </g>
   </g>
-  <g transform="matrix(0.623332, 0, 0, 0.623332, 370.162109, 88.180382)" style="">
+  <g transform="matrix(0.623332, 0, 0, 0.623332, 456.205475, 78.321167)" style="">
     <g transform="matrix(1, 0, 0, 1, -64.31897, 102.450127)">
       <rect x="514.24" y="76.94" width="50.079" height="55.924" style="fill: url(#colour-users); stroke: url(#color-0);"/>
       <line style="stroke: rgb(0, 0, 0);" x1="514.24" y1="92.896" x2="564.319" y2="93.236"/>
@@ -230,7 +232,7 @@
       <line style="stroke: rgb(0, 0, 0);" x1="514.24" y1="124.66" x2="564.319" y2="125"/>
     </g>
   </g>
-  <g transform="matrix(0.623332, 0, 0, 0.623332, 432.62796, 75.180382)" style="">
+  <g transform="matrix(0.623332, 0, 0, 0.623332, 517.695923, 68.570473)" style="">
     <g transform="matrix(1, 0, 0, 1, -64.31897, 102.450127)">
       <rect x="514.24" y="76.94" width="50.079" height="55.924" style="fill: url(#colour-users); stroke: url(#color-0);"/>
       <line style="stroke: rgb(0, 0, 0);" x1="514.24" y1="92.896" x2="564.319" y2="93.236"/>
@@ -241,7 +243,7 @@
       <line style="stroke: rgb(0, 0, 0);" x1="514.24" y1="124.66" x2="564.319" y2="125"/>
     </g>
   </g>
-  <g transform="matrix(0.623332, 0, 0, 0.623332, 241.785339, 78.321167)" style="">
+  <g transform="matrix(0.623332, 0, 0, 0.623332, 235.888901, 83.518753)" style="">
     <g transform="matrix(1, 0, 0, 1, -64.31897, 102.450127)">
       <rect x="514.24" y="76.94" width="50.079" height="55.924" style="fill: url(#colour-users); stroke: url(#color-0);"/>
       <line style="stroke: rgb(0, 0, 0);" x1="514.24" y1="92.896" x2="564.319" y2="93.236"/>
@@ -253,17 +255,6 @@
     </g>
   </g>
   <g transform="matrix(0.623332, 0, 0, 0.623332, 188.333984, 76.383385)" style="">
-    <g transform="matrix(1, 0, 0, 1, -64.31897, 102.450127)">
-      <rect x="514.24" y="76.94" width="50.079" height="55.924" style="fill: url(#colour-users); stroke: url(#color-0);"/>
-      <line style="stroke: rgb(0, 0, 0);" x1="514.24" y1="92.896" x2="564.319" y2="93.236"/>
-      <line style="stroke: rgb(0, 0, 0);" x1="514.24" y1="84.555" x2="564.319" y2="84.895"/>
-      <line style="stroke: rgb(0, 0, 0);" x1="514.24" y1="108.341" x2="564.319" y2="108.681"/>
-      <line style="stroke: rgb(0, 0, 0);" x1="514.24" y1="100" x2="564.319" y2="100.34"/>
-      <line style="stroke: rgb(0, 0, 0);" x1="514.24" y1="116.319" x2="564.319" y2="116.659"/>
-      <line style="stroke: rgb(0, 0, 0);" x1="514.24" y1="124.66" x2="564.319" y2="125"/>
-    </g>
-  </g>
-  <g transform="matrix(0.623332, 0, 0, 0.623332, 130.17453, 72.747253)" style="">
     <g transform="matrix(1, 0, 0, 1, -64.31897, 102.450127)">
       <rect x="514.24" y="76.94" width="50.079" height="55.924" style="fill: url(#colour-users); stroke: url(#color-0);"/>
       <line style="stroke: rgb(0, 0, 0);" x1="514.24" y1="92.896" x2="564.319" y2="93.236"/>
@@ -307,7 +298,7 @@
     <line style="stroke: rgb(0, 0, 0);" x1="101.695" y1="87.499" x2="110.816" y2="100"/>
     <line style="stroke: rgb(0, 0, 0);" x1="101.695" y1="83.395" x2="118.073" y2="85.929"/>
   </g>
-  <g transform="matrix(0, 0.029749, 0.029749, 0, 840.210266, 476.299286)" id="g2991" style="">
+  <g transform="matrix(0.011144, 0.027583, 0.027583, -0.011144, 850.796509, 469.82019)" id="g2991" style="">
     <path d="M 384,192 Q 384,112 328,56 272,0 192,0 112,0 56,56 0,112 0,192 q 0,80 56,136 56,56 136,56 80,0 136,-56 56,-56 56,-136 z M 896,69 Q 898,41 879,21 861,0 832,0 H 697 Q 672,0 654,16.5 636,33 634,58 612,287 449.5,449.5 287,612 58,634 33,636 16.5,654 0,672 0,697 v 135 q 0,29 21,47 17,17 43,17 h 5 Q 229,883 375,815.5 521,748 634,634 748,521 815.5,375 883,229 896,69 z m 512,-2 Q 1410,40 1390,20 1372,0 1344,0 H 1201 Q 1175,0 1156.5,17.5 1138,35 1137,60 1125,275 1036,468.5 947,662 804.5,804.5 662,947 468.5,1036 275,1125 60,1138 35,1139 17.5,1157.5 0,1176 0,1201 v 143 q 0,28 20,46 18,18 44,18 h 3 Q 329,1395 568.5,1288 808,1181 994,994 1181,808 1288,568.5 1395,329 1408,67 z" id="path2993" style="fill: currentcolor; stroke: rgb(186, 218, 85);"/>
   </g>
   <path d="M 1200 85.879 H 1321.035 L 1321.035 70.879 L 1361.035 90.879 L 1321.035 110.879 L 1321.035 95.879 H 1200 V 85.879 Z" style="fill: rgb(216, 216, 216);" transform="matrix(-0.44788, 0.894094, -0.894094, -0.44788, 1818.709839, -941.331177)" bx:shape="arrow 1200 70.879 161.035 40 10 40 0 1@8601cc33"/>
@@ -317,8 +308,9 @@
   <path d="M 300 314.48 H 386.786 L 386.786 299.48 L 426.786 319.48 L 386.786 339.48 L 386.786 324.48 H 300 V 314.48 Z" style="fill: rgb(216, 216, 216);" transform="matrix(0.6087, 0.793401, -0.793401, 0.6087, 1202.357788, -146.3414)" bx:shape="arrow 300 299.48 126.786 40 10 40 0 1@42adb8a5"/>
   <rect x="1044.799" y="210.188" width="94.982" height="75.958" style="fill: rgb(255, 255, 255); stroke: url(#color-0);"/>
   <rect x="1042.799" y="208.188" width="94.982" height="75.958" style="fill: rgb(255, 255, 255); stroke: url(#color-0);"/>
+  <line style="stroke: rgb(0, 0, 0);" x1="861.796875" y1="263.2600860595703" x2="827.640625" y2="215.249311652271"/>
   <rect x="857.118" y="258.535" width="94.982" height="75.958" style="fill: rgb(255, 255, 255); stroke: url(#color-0);"/>
-  <text transform="matrix(1, 0, 0, 1, 401.080994, -184.346039)" style="fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 14px; stroke: url(#color-0); white-space: pre;" y="465.4119873046875" x="464.4339904785156"><tspan x="464.4339904785156" dy="1em">​</tspan>Other<tspan x="464.4339904785156" dy="1em">​</tspan>data<tspan x="464.4339904785156" dy="1em">​</tspan>services</text>
+  <text transform="matrix(1, 0, 0, 1, 401.080994, -184.346039)" style="fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 14px; stroke: url(#color-0); white-space: pre;" y="465.4119873046875" x="464.4339904785156"><tspan x="464.4339904785156" dy="1em">​</tspan>Data<tspan x="464.4339904785156" dy="1em">​</tspan>services</text>
   <rect x="857.118" y="258.535" width="94.94" height="18.768" style="fill: url(#color-0);"/>
   <g>
     <circle style="fill: url(#colour-users); stroke: url(#color-0);" cx="1164.127" cy="352.832" r="58.832"/>
@@ -392,5 +384,34 @@
   <text transform="matrix(1, 0, 0, 1, 584.74469, -234.693039)" style="fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 14px; stroke: url(#color-0); white-space: pre;" y="465.4119873046875" x="464.4339904785156"><tspan x="464.4339904785156" dy="1em">​</tspan>National<tspan x="464.4339904785156" dy="1em">​</tspan>statistics</text>
   <rect x="1040.781" y="208.188" width="94.94" height="18.768" style="fill: url(#color-0);"/>
   <text x="1079.076" y="255.821" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Roboto Slab&quot;; font-size: 28px;"> </text>
+  <text transform="matrix(0.999971, 0.007456, -0.007456, 0.999971, -12.883772, -591.278748)" style="fill: rgb(51, 51, 51); font-family: Roboto; font-size: 26px; letter-spacing: 1px; white-space: pre;" bx:origin="0.489 0.483"><textPath startOffset="408" xlink:href="#path-2">                 Devolved land and planning services                                    Central government</textPath></text>
   <text x="1057.716" y="263.141" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Roboto Slab&quot;; font-size: 28px;"> </text>
+  <path d="M 900 462.687 H 1078.986 L 1078.986 447.687 L 1118.986 467.687 L 1078.986 487.687 L 1078.986 472.687 H 900 V 462.687 Z" style="fill: rgb(216, 216, 216);" transform="matrix(0.991001, 0.133858, -0.133858, 0.991001, 70.702934, -116.262917)" bx:shape="arrow 900 447.687 218.986 40 10 40 0 1@ffc542ff"/>
+  <path d="M 880.906 503.662 H 963.611 L 963.611 488.662 L 1003.611 508.662 L 963.611 528.662 L 963.611 513.662 H 880.906 V 503.662 Z" style="fill: rgb(216, 216, 216);" transform="matrix(0.869337, 0.49422, -0.49422, 0.869337, 366.492523, -368.897858)" bx:shape="arrow 880.906 488.662 122.705 40 10 40 0 1@3bfdc96f"/>
+  <g transform="matrix(0.623332, 0, 0, 0.623332, 288.333984, 83.518753)" style="">
+    <g transform="matrix(1, 0, 0, 1, -64.31897, 102.450127)">
+      <rect x="514.24" y="76.94" width="50.079" height="55.924" style="fill: url(#colour-users); stroke: url(#color-0);"/>
+      <line style="stroke: rgb(0, 0, 0);" x1="514.24" y1="92.896" x2="564.319" y2="93.236"/>
+      <line style="stroke: rgb(0, 0, 0);" x1="514.24" y1="84.555" x2="564.319" y2="84.895"/>
+      <line style="stroke: rgb(0, 0, 0);" x1="514.24" y1="108.341" x2="564.319" y2="108.681"/>
+      <line style="stroke: rgb(0, 0, 0);" x1="514.24" y1="100" x2="564.319" y2="100.34"/>
+      <line style="stroke: rgb(0, 0, 0);" x1="514.24" y1="116.319" x2="564.319" y2="116.659"/>
+      <line style="stroke: rgb(0, 0, 0);" x1="514.24" y1="124.66" x2="564.319" y2="125"/>
+    </g>
+  </g>
+  <g transform="matrix(0.623332, 0, 0, 0.623332, 345.316803, 88.180382)" style="">
+    <g transform="matrix(1, 0, 0, 1, -64.31897, 102.450127)">
+      <rect x="514.24" y="76.94" width="50.079" height="55.924" style="fill: url(#colour-users); stroke: url(#color-0);"/>
+      <line style="stroke: rgb(0, 0, 0);" x1="514.24" y1="92.896" x2="564.319" y2="93.236"/>
+      <line style="stroke: rgb(0, 0, 0);" x1="514.24" y1="84.555" x2="564.319" y2="84.895"/>
+      <line style="stroke: rgb(0, 0, 0);" x1="514.24" y1="108.341" x2="564.319" y2="108.681"/>
+      <line style="stroke: rgb(0, 0, 0);" x1="514.24" y1="100" x2="564.319" y2="100.34"/>
+      <line style="stroke: rgb(0, 0, 0);" x1="514.24" y1="116.319" x2="564.319" y2="116.659"/>
+      <line style="stroke: rgb(0, 0, 0);" x1="514.24" y1="124.66" x2="564.319" y2="125"/>
+    </g>
+  </g>
+  <line style="stroke: rgb(0, 0, 0);" x1="767.8714599609375" y1="225.0000038919236" x2="767.8714866638184" y2="233.8125"/>
+  <line style="stroke: rgb(0, 0, 0);" x1="767.8714599609375" y1="225.64616117343064" x2="776.7587404965794" y2="225.64616117343064"/>
+  <line style="stroke: rgb(0, 0, 0);" x1="827.640625" y1="215.2493133544922" x2="827.640625" y2="220.64803358550012"/>
+  <line style="stroke: rgb(0, 0, 0);" x1="827.640625" y1="215.2493133544922" x2="832.7594349724529" y2="216.32045524555573"/>
 </svg>
