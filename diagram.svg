@@ -62,7 +62,7 @@
     </linearGradient>
   </defs>
   <ellipse style="fill: url(#colour-users);" cx="640" cy="375" rx="780" ry="475"/>
-  <ellipse style="fill: url(#colour-services);" cx="637.455" cy="274.184" rx="780" ry="475"/>
+  <ellipse style="fill: url(#colour-services);" cx="758.4" cy="251.521" rx="780" ry="475"/>
   <ellipse style="fill: url(#colour-platforms);" cx="629" cy="67.125" rx="780" ry="475"/>
   <ellipse style="fill: url(#colour-processes);" cx="637.455" cy="-103.694" rx="780" ry="475"/>
   <line style="stroke: rgb(0, 0, 0);" x1="850.7965087890625" y1="270.859375" x2="767.8714866638184" y2="226.328125"/>
@@ -135,6 +135,7 @@
   <text x="1089.338" y="754" style="white-space: pre; fill: rgb(51, 51, 51); font-family: WeePeople; font-size: 68px;">t</text>
   <text x="144.781" y="686.25" style="white-space: pre; fill: rgb(51, 51, 51); font-family: WeePeople; font-size: 68px;">u</text>
   <path d="M 621.297 608.237 H 715.885 L 715.885 593.237 L 755.885 613.237 L 715.885 633.237 L 715.885 618.237 H 621.297 V 608.237 Z" style="fill: rgb(216, 216, 216);" transform="matrix(-0.504096, -0.863648, 0.863648, -0.504096, 404.869415, 1458.948975)" bx:shape="arrow 621.297 593.237 134.588 40 10 40 0 1@d440d7bd"/>
+  <rect x="329.678" y="569.755" width="58.326" height="67.531" style="fill: url(#colour-users);"/>
   <g transform="matrix(1, 0, 0, 1, 111.698509, -37.587212)">
     <g>
       <text style="fill: rgb(51, 51, 51); font-family: &quot;Roboto Slab&quot;; font-size: 12px; white-space: pre;" transform="matrix(1, 0, 0, 1, -79.828125, 10.75)"><tspan x="1085.77" y="620.353">This cycle lane will be</tspan><tspan x="1085.77001953125" dy="1em">​</tspan><tspan>safer on the other side <tspan x="1085.77001953125" dy="1em">​</tspan>of the road?</tspan><tspan x="1085.77001953125" dy="1em">​</tspan></text>
@@ -175,16 +176,15 @@
     </g>
     <rect x="821.558" y="565.597" width="93.955" height="18.768" style="fill: rgb(216, 216, 216);"/>
   </g>
-  <g transform="matrix(1, 0, 0, 1, -258.491455, 49.70282)">
-    <g transform="matrix(1, 0, 0, 1, 14.116972, -8.207541)">
-      <g>
-        <g transform="matrix(1.043928, 0, 0, 0.868247, 479.967926, 201.875763)" style="">
-          <rect x="326.741" y="418.425" width="90.985" height="87.484" style="fill: rgb(255, 255, 255); stroke: url(#color-0);"/>
-        </g>
-        <text transform="matrix(1, 0, 0, 1, 365.024719, 122.291718)" style="fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 14px; stroke: url(#color-0); text-transform: lowercase; white-space: pre;" x="464.4339904785156" y="465.4119873046875"><tspan x="464.4339904785156" dy="1em">​</tspan>Ready-made<tspan x="464.4339904785156" dy="1em">​</tspan>housing</text>
+  <g transform="matrix(1, 0, 0, 1, -244.374481, 41.495277)">
+    <g>
+      <g transform="matrix(1.043928, 0, 0, 0.868247, 479.967926, 201.875763)" style="">
+        <rect x="326.741" y="418.425" width="90.985" height="87.484" style="fill: rgb(255, 255, 255); stroke: url(#color-0);"/>
       </g>
-      <rect x="821.558" y="565.597" width="93.955" height="18.768" style="fill: rgb(216, 216, 216);"/>
+      <text transform="matrix(1, 0, 0, 1, 365.024719, 122.291718)" style="fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 14px; stroke: url(#color-0); text-transform: lowercase; white-space: pre;" x="464.4339904785156" y="465.4119873046875"><tspan x="464.4339904785156" dy="1em">​</tspan>Ready-made<tspan x="464.4339904785156" dy="1em">​</tspan>housing</text>
+      <text transform="matrix(1, 0, 0, 1, 116.509644, 67.531364)" style="fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 14px; stroke: url(#color-0); text-transform: lowercase; white-space: pre;" x="464.4339904785156" y="465.4119873046875"><tspan x="464.4339904785156" dy="1em">​</tspan>find<tspan x="464.4339904785156" dy="1em">​</tspan>a site<tspan x="464.4339904785156" dy="1em">​</tspan>service<tspan x="464.4339904785156" dy="1em">​</tspan><tspan x="464.4339904785156" dy="1em">​</tspan></text>
     </g>
+    <rect x="821.558" y="565.597" width="93.955" height="18.768" style="fill: rgb(216, 216, 216);"/>
   </g>
   <g transform="matrix(1, 0, 0, 1, -259.910583, -4.293001)">
     <text style="fill: rgb(51, 51, 51); font-family: &quot;Roboto Slab&quot;; font-size: 16px; font-weight: 800; white-space: pre;" x="789.37" y="468.184" transform="matrix(1, 0, 0, 1, -47.859375, 2.444314)">Planning<tspan x="789.3699951171875" dy="1.1em">​</tspan>application<tspan x="789.3699951171875" dy="1.1em">​</tspan>API</text>
@@ -414,4 +414,41 @@
   <line style="stroke: rgb(0, 0, 0);" x1="767.8714599609375" y1="225.64616117343064" x2="776.7587404965794" y2="225.64616117343064"/>
   <line style="stroke: rgb(0, 0, 0);" x1="827.640625" y1="215.2493133544922" x2="827.640625" y2="220.64803358550012"/>
   <line style="stroke: rgb(0, 0, 0);" x1="827.640625" y1="215.2493133544922" x2="832.7594349724529" y2="216.32045524555573"/>
+  <g transform="matrix(4.376541, 0, 0, 3.67077, 298.560089, 558.481445)" style="">
+    <path d="M19.494,0H7.948C6.843,0,5.951,0.896,5.951,1.999v23.446c0,1.102,0.892,1.997,1.997,1.997h11.546 c1.103,0,1.997-0.895,1.997-1.997V1.999C21.491,0.896,20.597,0,19.494,0z M10.872,1.214h5.7c0.144,0,0.261,0.215,0.261,0.481 s-0.117,0.482-0.261,0.482h-5.7c-0.145,0-0.26-0.216-0.26-0.482C10.612,1.429,10.727,1.214,10.872,1.214z M13.722,25.469 c-0.703,0-1.275-0.572-1.275-1.276s0.572-1.274,1.275-1.274c0.701,0,1.273,0.57,1.273,1.274S14.423,25.469,13.722,25.469z M19.995,21.1H7.448V3.373h12.547V21.1z"/>
+    <g/>
+    <g/>
+    <g/>
+    <g/>
+    <g/>
+    <g/>
+    <g/>
+    <g/>
+    <g/>
+    <g/>
+    <g/>
+    <g/>
+    <g/>
+    <g/>
+    <g/>
+  </g>
+  <g transform="matrix(2.093678, 0, 0, 2.093678, 375.240417, 611.247925)" style=""/>
+  <g transform="matrix(2.093678, 0, 0, 2.093678, 375.240417, 611.247925)" style=""/>
+  <g transform="matrix(2.093678, 0, 0, 2.093678, 375.240417, 611.247925)" style=""/>
+  <g transform="matrix(2.093678, 0, 0, 2.093678, 375.240417, 611.247925)" style=""/>
+  <g transform="matrix(2.093678, 0, 0, 2.093678, 375.240417, 611.247925)" style=""/>
+  <g transform="matrix(2.093678, 0, 0, 2.093678, 375.240417, 611.247925)" style=""/>
+  <g transform="matrix(2.093678, 0, 0, 2.093678, 375.240417, 611.247925)" style=""/>
+  <g transform="matrix(2.093678, 0, 0, 2.093678, 375.240417, 611.247925)" style=""/>
+  <g transform="matrix(2.093678, 0, 0, 2.093678, 375.240417, 611.247925)" style=""/>
+  <g transform="matrix(2.093678, 0, 0, 2.093678, 375.240417, 611.247925)" style=""/>
+  <g transform="matrix(2.093678, 0, 0, 2.093678, 375.240417, 611.247925)" style=""/>
+  <g transform="matrix(2.093678, 0, 0, 2.093678, 375.240417, 611.247925)" style=""/>
+  <g transform="matrix(2.093678, 0, 0, 2.093678, 375.240417, 611.247925)" style=""/>
+  <g transform="matrix(2.093678, 0, 0, 2.093678, 375.240417, 611.247925)" style=""/>
+  <g transform="matrix(2.093678, 0, 0, 2.093678, 375.240417, 611.247925)" style=""/>
+  <g transform="matrix(1, 0, 0, 1, -719.662903, 46.940979)">
+    <text style="fill: rgb(51, 51, 51); font-family: &quot;Roboto Slab&quot;; font-size: 12px; white-space: pre;" transform="matrix(1, 0, 0, 1, -79.828125, 10.75)" x="1085.77001953125" y="620.35302734375"><tspan x="1085.77001953125" dy="1em">​</tspan>Where can I build<tspan x="1085.77001953125" dy="1em">​</tspan>around here?<tspan x="1085.77001953125" dy="1em">​</tspan></text>
+    <line style="stroke: rgb(0, 0, 0);" x1="1028.828" y1="682.313" x2="1040.781" y2="658.625"/>
+  </g>
 </svg>
