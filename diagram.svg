@@ -62,7 +62,7 @@
     </linearGradient>
   </defs>
   <ellipse style="fill: url(#colour-users);" cx="640" cy="375" rx="780" ry="475"/>
-  <ellipse style="fill: url(#colour-services);" cx="758.4" cy="251.521" rx="780" ry="475"/>
+  <ellipse style="fill: url(#colour-services);" cx="640" cy="213.546" rx="780" ry="475"/>
   <ellipse style="fill: url(#colour-platforms);" cx="629" cy="67.125" rx="780" ry="475"/>
   <path d="M 621.297 608.237 H 715.885 L 715.885 593.237 L 755.885 613.237 L 715.885 633.237 L 715.885 618.237 H 621.297 V 608.237 Z" style="fill: rgb(216, 216, 216);" transform="matrix(-0.504096, -0.863648, 0.863648, -0.504096, 404.869415, 1458.948975)" bx:shape="arrow 621.297 593.237 134.588 40 10 40 0 1@d440d7bd"/>
   <ellipse style="fill: url(#colour-processes);" cx="637.455" cy="-103.694" rx="780" ry="475"/>
