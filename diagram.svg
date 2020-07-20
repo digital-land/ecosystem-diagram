@@ -110,7 +110,7 @@
   <path d="M 526.723 441.938 H 580.356 L 580.356 426.938 L 620.356 446.938 L 580.356 466.938 L 580.356 451.938 H 526.723 V 441.938 Z" style="fill: rgb(216, 216, 216);" transform="matrix(0.111887, -0.993721, 0.993721, 0.111887, 23.658365, 920.347717)" bx:shape="arrow 526.723 426.938 93.633 40 10 40 0 1@3f6a7867"/>
   <path d="M 268.888 438.879 H 335.633 L 335.633 423.879 L 356.849 443.879 L 335.633 463.879 L 335.633 448.879 H 268.888 V 438.879 Z" style="fill: rgb(216, 216, 216);" transform="matrix(-0.152972, -0.988231, 0.988231, -0.152972, 109.436134, 777.503113)" bx:shape="arrow 268.888 423.879 87.961 40 10 21.216 0 1@04ca7848"/>
   <path d="M 82.049 102.902 H 266.999 L 266.999 90.402 L 300.387 107.902 L 266.999 125.402 L 266.999 112.902 H 82.049 V 102.902 Z" style="fill: rgb(216, 216, 216);" transform="matrix(0.007908, 0.999969, -0.999969, 0.007908, 175.77829, -10.236062)" bx:shape="arrow 82.049 90.402 218.338 35 10 33.389 0 1@ae7ca6ed"/>
-  <text transform="matrix(0.999971, 0.007456, -0.007456, 0.999971, -6.077364, -681.278748)" style="fill: rgb(51, 51, 51); font-family: Roboto; font-size: 26px; letter-spacing: 1px; white-space: pre;" bx:origin="0.489 0.483"><textPath startOffset="434" xlink:href="#path-3">Shared evidence Bases          Registers: authoratitve data you can trust         Monitoring information</textPath></text>
+  <text transform="matrix(0.999971, 0.007456, -0.007456, 0.999971, -13.077364, -699.278748)" style="fill: rgb(51, 51, 51); font-family: Roboto; font-size: 26px; letter-spacing: 1px; white-space: pre;" bx:origin="0.489 0.483"><textPath startOffset="434" xlink:href="#path-3">Shared evidence Bases          Registers: authoratitve data you can trust         Monitoring information</textPath></text>
   <text x="674.855" y="180.571" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Roboto Slab&quot;; font-size: 28px;"> </text>
   <text style="font-family: Roboto; font-size: 26px; white-space: pre;" x="400.008" y="39.164">Data standards, policies and regulations</text>
   <text x="1149.047" y="706.594" style="white-space: pre; fill: rgb(51, 51, 51); font-family: WeePeople; font-size: 68px;">k</text>
@@ -176,14 +176,34 @@
     </g>
     <rect x="821.558" y="565.597" width="93.955" height="18.768" style="fill: rgb(216, 216, 216);"/>
   </g>
-  <g transform="matrix(0.997741, 0, 0, 1.013665, -242.304886, 32.734028)">
-    <g transform="matrix(1.043928, 0, 0, 0.868247, 479.967926, 201.875763)" style="">
-      <rect x="326.741" y="418.425" width="90.985" height="87.484" style="fill: rgb(255, 255, 255); stroke: url(#color-0);"/>
+  <g transform="matrix(1.04157, 0, 0, 0.880112, 236.578812, 221.368408)" style="">
+    <rect x="326.741" y="418.425" width="90.985" height="112.391" style="fill: rgb(255, 255, 255); stroke: url(#color-0);"/>
+    <g transform="matrix(0.063779, 0, 0, 0.07548, 348.916718, 487.437531)" style="">
+      <g style="" transform="matrix(0.788777, 0, 0, 0.788777, 73.6091, 9.224976)">
+        <path d="M167.295,287.88c-0.771,0.673-1.224,1.653-1.224,2.693V395.25c0,1.53,0.979,2.876,2.424,3.366l67.883,22.632 c0.367,0.122,0.747,0.184,1.126,0.184c0.734,0,1.469-0.233,2.069-0.674c0.93-0.673,1.481-1.738,1.481-2.876V300.513 c0-1.763-1.285-3.256-3.036-3.514l-67.883-9.939C169.119,286.901,168.079,287.208,167.295,287.88z"/>
+        <path d="M132.387,281.589l-47.846-6.977c-1.016-0.159-2.057,0.159-2.828,0.82c-0.783,0.673-1.224,1.652-1.224,2.692v88.582 c0,1.53,0.979,2.877,2.424,3.366l47.846,15.948c0.368,0.123,0.747,0.184,1.114,0.184c0.734,0,1.469-0.232,2.081-0.673 c0.918-0.673,1.469-1.738,1.469-2.876V285.09C135.422,283.327,134.137,281.834,132.387,281.589z"/>
+        <path d="M573.174,203.669L424.678,4.843c0,0-1.419-2.24-4.7-3.55c-3.28-1.322-6.475-0.392-6.475-0.392L180.184,60.694V40.057 c0-4.957-3.415-9.253-8.237-10.379l-19.499-4.504c0,0-1.261-0.343-3.036-0.245c-1.774,0.098-2.913,0.575-2.913,0.575 l-35.166,12.46c-4.247,1.505-7.087,5.52-7.087,10.024v32.179l-36.928,9.449c-2.975,0.771-5.472,2.778-6.867,5.52L1.15,212.666 c-1.653,3.268-1.518,7.148,0.367,10.282c1.885,3.133,5.251,5.08,8.911,5.166l28.103,0.587v208.558 c0,3.978,2.203,7.613,5.728,9.437L287.92,573.489c0,0,2.118,1.176,4.896,1.212c2.778,0.024,4.921-1.212,4.921-1.212 l236.098-122.963c3.513-1.836,5.716-5.459,5.728-9.437l0.416-222.096l23.917,1.652c0,0,6.255,0.71,9.78-5.018 C577.568,209.361,573.174,203.669,573.174,203.669z M282.205,546.512L59.828,430.795V229.141l177.468,3.733c0,0,0,0,0.012,0h0.024 l44.884,0.808v312.831H282.205z M530.102,196.986c-2.95-0.208-5.839,0.82-7.993,2.828c-2.154,2.007-3.378,4.834-3.391,7.772 l-0.416,227.041l-60.942,31.751V269.606c0-1.004-0.417-1.946-1.151-2.62s-1.701-1.003-2.692-0.918l-58.63,4.872 c-1.836,0.159-3.256,1.701-3.256,3.537v226.11L303.478,546.5V223.229c0-5.814-4.651-10.539-10.453-10.649l-32.901-0.6 L415.62,28.307l126.611,169.512L530.102,196.986z"/>
+      </g>
     </g>
-    <text transform="matrix(1, 0, 0, 1, 365.024719, 122.291718)" style="fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 14px; stroke: url(#color-0); text-transform: lowercase; white-space: pre;" x="464.4339904785156" y="465.4119873046875"><tspan x="464.4339904785156" dy="1em">​</tspan>Ready-made<tspan x="464.4339904785156" dy="1em">​</tspan>housing</text>
-    <text transform="matrix(1, 0, 0, 1, 116.509644, 67.531364)" style="fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 14px; stroke: url(#color-0); text-transform: lowercase; white-space: pre;" x="464.4339904785156" y="465.4119873046875"><tspan x="464.4339904785156" dy="1em">​</tspan>find<tspan x="464.4339904785156" dy="1em">​</tspan>a site<tspan x="464.4339904785156" dy="1em">​</tspan>service<tspan x="464.4339904785156" dy="1em">​</tspan><tspan x="464.4339904785156" dy="1em">​</tspan></text>
+    <g transform="matrix(0.249797, 0, 0, 0.295622, 444.925659, 1098.934692)" style=""/>
+    <g transform="matrix(0.249797, 0, 0, 0.295622, 444.925659, 1098.934692)" style=""/>
+    <g transform="matrix(0.249797, 0, 0, 0.295622, 444.925659, 1098.934692)" style=""/>
+    <g transform="matrix(0.249797, 0, 0, 0.295622, 444.925659, 1098.934692)" style=""/>
+    <g transform="matrix(0.249797, 0, 0, 0.295622, 444.925659, 1098.934692)" style=""/>
+    <g transform="matrix(0.249797, 0, 0, 0.295622, 444.925659, 1098.934692)" style=""/>
+    <g transform="matrix(0.249797, 0, 0, 0.295622, 444.925659, 1098.934692)" style=""/>
+    <g transform="matrix(0.249797, 0, 0, 0.295622, 444.925659, 1098.934692)" style=""/>
+    <g transform="matrix(0.249797, 0, 0, 0.295622, 444.925659, 1098.934692)" style=""/>
+    <g transform="matrix(0.249797, 0, 0, 0.295622, 444.925659, 1098.934692)" style=""/>
+    <g transform="matrix(0.249797, 0, 0, 0.295622, 444.925659, 1098.934692)" style=""/>
+    <g transform="matrix(0.249797, 0, 0, 0.295622, 444.925659, 1098.934692)" style=""/>
+    <g transform="matrix(0.249797, 0, 0, 0.295622, 444.925659, 1098.934692)" style=""/>
+    <g transform="matrix(0.249797, 0, 0, 0.295622, 444.925659, 1098.934692)" style=""/>
+    <g transform="matrix(0.249797, 0, 0, 0.295622, 444.925659, 1098.934692)" style=""/>
   </g>
-  <rect x="577.397" y="606.06" width="93.743" height="19.024" style="fill: rgb(216, 216, 216);"/>
+  <text transform="matrix(0.997741, 0, 0, 1.013665, 121.895256, 140.696854)" style="fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 14px; stroke: url(#color-0); text-transform: lowercase; white-space: pre;" x="464.4339904785156" y="465.4119873046875"><tspan x="464.4339904785156" dy="1em">​</tspan>Ready-made<tspan x="464.4339904785156" dy="1em">​</tspan>housing</text>
+  <text transform="matrix(0.997741, 0, 0, 1.013665, -126.058434, 104.18821)" style="fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 14px; stroke: url(#color-0); text-transform: lowercase; white-space: pre;" x="464.4339904785156" y="465.4119873046875"><tspan x="464.4339904785156" dy="1em">​</tspan>site<tspan x="464.4339904785156" dy="1em">​</tspan>finder<tspan x="464.4339904785156" dy="1em">​</tspan><tspan x="464.4339904785156" dy="1em">​</tspan></text>
+  <rect x="577.397" y="590.06" width="93.743" height="19.024" style="fill: rgb(216, 216, 216);"/>
   <g transform="matrix(1, 0, 0, 1, -64.031631, -0.322992)">
     <rect x="144.766" y="422.922" width="94.767" height="88.967" style="fill: rgb(255, 255, 255); stroke: url(#color-0);"/>
   </g>
@@ -383,7 +403,7 @@
   <text transform="matrix(1, 0, 0, 1, 584.74469, -234.693039)" style="fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 14px; stroke: url(#color-0); white-space: pre;" y="465.4119873046875" x="464.4339904785156"><tspan x="464.4339904785156" dy="1em">​</tspan>National<tspan x="464.4339904785156" dy="1em">​</tspan>statistics</text>
   <rect x="1040.781" y="208.188" width="94.94" height="18.768" style="fill: url(#color-0);"/>
   <text x="1079.076" y="255.821" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Roboto Slab&quot;; font-size: 28px;"> </text>
-  <text transform="matrix(0.999971, 0.007456, -0.007456, 0.999971, -12.883772, -591.278748)" style="fill: rgb(51, 51, 51); font-family: Roboto; font-size: 26px; letter-spacing: 1px; white-space: pre;" bx:origin="0.489 0.483"><textPath startOffset="408" xlink:href="#path-2">                 Devolved land and planning services                                    Central government</textPath></text>
+  <text transform="matrix(0.999971, 0.007456, -0.007456, 0.999971, -13.883772, -599.278748)" style="fill: rgb(51, 51, 51); font-family: Roboto; font-size: 26px; letter-spacing: 1px; white-space: pre;" bx:origin="0.489 0.483"><textPath startOffset="408" xlink:href="#path-2">                 Devolved land and planning services                                    Central government</textPath></text>
   <text x="1057.716" y="263.141" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Roboto Slab&quot;; font-size: 28px;"> </text>
   <path d="M 900 462.687 H 1078.986 L 1078.986 447.687 L 1118.986 467.687 L 1078.986 487.687 L 1078.986 472.687 H 900 V 462.687 Z" style="fill: rgb(216, 216, 216);" transform="matrix(0.991001, 0.133858, -0.133858, 0.991001, 70.702934, -116.262917)" bx:shape="arrow 900 447.687 218.986 40 10 40 0 1@ffc542ff"/>
   <path d="M 880.906 503.662 H 963.611 L 963.611 488.662 L 1003.611 508.662 L 963.611 528.662 L 963.611 513.662 H 880.906 V 503.662 Z" style="fill: rgb(216, 216, 216);" transform="matrix(0.869337, 0.49422, -0.49422, 0.869337, 366.492523, -368.897858)" bx:shape="arrow 880.906 488.662 122.705 40 10 40 0 1@3bfdc96f"/>
@@ -451,6 +471,9 @@
     <line style="stroke: rgb(0, 0, 0);" x1="1028.828" y1="682.313" x2="1040.781" y2="658.625"/>
   </g>
   <text x="679.522" y="566.694" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Roboto Slab&quot;; font-size: 28px;"> </text>
+  <g transform="matrix(0.814196, 0, 0, 0.814196, 86.466095, 158.000076)" style="">
+    <rect x="144.766" y="422.922" width="94.767" height="88.967" style="fill: rgb(255, 255, 255); stroke: url(#color-0);"/>
+  </g>
   <g transform="matrix(1, 0, 0, 1, -66.031631, -0.322992)">
     <g data-name="data-server-network-storage" transform="matrix(0.538227, 0, 0, 0.538227, 174.918869, 468.629913)" style="">
       <path d="M62,14V10a1,1,0,0,0-1-1H59.243l1.242-1.243a1,1,0,0,0,0-1.414L57.657,3.515a1,1,0,0,0-1.414,0L55,4.758V3a1,1,0,0,0-1-1H50a1,1,0,0,0-1,1V4.758L47.757,3.515a1.029,1.029,0,0,0-1.414,0L43.515,6.343a1,1,0,0,0,0,1.414L44.757,9H43a1,1,0,0,0-1,1v1H32a1,1,0,0,0-1,1v7.025c-2.2.1-7,.589-7,2.975v3H13V15h6a4,4,0,0,0,0-8,3.871,3.871,0,0,0-.528.036,4.008,4.008,0,0,0-2.883-1.992A4.992,4.992,0,0,0,6,7a4,4,0,0,0,0,8h5V26a1,1,0,0,0,1,1H24V40c0,2.386,4.8,2.875,7,2.975V53H20V48a1,1,0,0,0-.293-.707l-5-5A1,1,0,0,0,14,42H3a1,1,0,0,0-1,1V61a1,1,0,0,0,1,1H19a1,1,0,0,0,1-1V55H32a1,1,0,0,0,1-1V42.975c2.2-.1,7-.589,7-2.975V33h9V45H43a1,1,0,0,0-1,1V61a1,1,0,0,0,1,1H61a1,1,0,0,0,1-1V44a1,1,0,0,0-1-1H54a1,1,0,0,0-.707.293L51.586,45H51V32a1,1,0,0,0-1-1H40V22c0-2.386-4.8-2.875-7-2.975V13h9v1a1,1,0,0,0,1,1h1.757l-1.242,1.243a1,1,0,0,0,0,1.414l2.828,2.828a1,1,0,0,0,1.414,0L49,19.242V21a1,1,0,0,0,1,1h4a1,1,0,0,0,1-1V19.242l1.243,1.243a1.029,1.029,0,0,0,1.414,0l2.828-2.828a1,1,0,0,0,0-1.414L59.243,15H61A1,1,0,0,0,62,14ZM4,11A2,2,0,0,1,6,9a1.968,1.968,0,0,1,.814.179A1,1,0,0,0,8.172,7.948,2.986,2.986,0,1,1,13.9,6.261a.989.989,0,0,0,1.011.752C14.96,7.01,15.013,7,15,7a2,2,0,0,1,1.92,1.481,1,1,0,0,0,1.338.666A2,2,0,1,1,19,13H6A2,2,0,0,1,4,11ZM15,45.414,16.586,47H15ZM4,60V44h9v4a1,1,0,0,0,1,1h4V60Zm56,0H44V51H60v9ZM52,47a1,1,0,0,0,.707-.293L54.414,45H60v4H44V47ZM38,27.859C37.618,28.267,35.521,29,32,29s-5.618-.733-6-1.141V24.108a20.625,20.625,0,0,0,12,0ZM26,30.108a20.625,20.625,0,0,0,12,0v3.764c-.42.41-2.522,1.128-6,1.128s-5.58-.718-6-1.128ZM32,41c-3.478,0-5.58-.718-6-1.128V36.108a20.625,20.625,0,0,0,12,0v3.764C37.58,40.282,35.478,41,32,41Zm0-18a13.032,13.032,0,0,1-5.829-1A13.032,13.032,0,0,1,32,21a13.032,13.032,0,0,1,5.829,1A13.032,13.032,0,0,1,32,23ZM60,13H57.651a1,1,0,0,0-.943.667,5.044,5.044,0,0,1-.2.485,1,1,0,0,0,.2,1.137l1.661,1.661L56.95,18.364,55.289,16.7a1,1,0,0,0-1.136-.2,5.062,5.062,0,0,1-.486.2,1,1,0,0,0-.667.943V20H51V17.651a1,1,0,0,0-.667-.943,5.062,5.062,0,0,1-.486-.2,1,1,0,0,0-1.136.2L47.05,18.364,45.636,16.95,47.3,15.289a1,1,0,0,0,.2-1.137,5.044,5.044,0,0,1-.2-.485A1,1,0,0,0,46.349,13H44V11h2.349a1,1,0,0,0,.943-.667,5.044,5.044,0,0,1,.2-.485,1,1,0,0,0-.2-1.137L45.636,7.05,47.05,5.636,48.711,7.3a1,1,0,0,0,1.136.2,5.062,5.062,0,0,1,.486-.2A1,1,0,0,0,51,6.349V4h2V6.349a1,1,0,0,0,.667.943,5.062,5.062,0,0,1,.486.2,1,1,0,0,0,1.136-.2L56.95,5.636,58.364,7.05,56.7,8.711a1,1,0,0,0-.2,1.137,5.044,5.044,0,0,1,.2.485,1,1,0,0,0,.943.667H60Z"/>
@@ -462,6 +485,7 @@
       <rect x="46" y="53" width="4" height="2"/>
     </g>
     <text style="fill: rgb(51, 51, 51); font-family: &quot;Roboto Slab&quot;; font-size: 16px; font-weight: 800; white-space: pre;" transform="matrix(1, 0, 0, 1, -311.052673, -24.464821)" x="464.4339904785156" y="465.4119873046875">Predictive<tspan x="464.4339904785156" dy="1em">​</tspan>Modelling</text>
+    <text style="fill: rgb(51, 51, 51); font-family: &quot;Roboto Slab&quot;; font-size: 16px; font-weight: 800; white-space: pre;" transform="matrix(1, 0, 0, 1, -189.7202, 57.600628)" x="464.4339904785156" y="465.4119873046875">Mapping<tspan x="464.4339904785156" dy="1em">​</tspan>services</text>
   </g>
   <rect x="711.25" y="586.168" width="94.767" height="88.967" style="fill: rgb(255, 255, 255); stroke: url(#color-0);"/>
   <text style="fill: rgb(51, 51, 51); font-family: &quot;Roboto Slab&quot;; font-size: 16px; font-weight: 800; white-space: pre;" transform="matrix(1, 0, 0, 1, 255.431442, 138.781097)" x="464.4339904785156" y="465.4119873046875">Design<tspan x="464.4339904785156" dy="1em">​</tspan>assitants</text>
@@ -477,15 +501,15 @@
   </g>
   <rect x="433.25" y="579.767" width="94.767" height="88.967" style="fill: rgb(255, 255, 255); stroke: url(#color-0);"/>
   <text transform="matrix(1, 0, 0, 1, -22.56868, 132.380066)" style="fill: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;; font-size: 16px; font-weight: 800; white-space: pre;"><tspan x="464.434" y="465.412">Site</tspan><tspan x="464.4339904785156" dy="1em">​</tspan><tspan>analysis</tspan><tspan x="464.4339904785156" dy="1em">​</tspan></text>
-  <g transform="matrix(0.655804, 0, 0, 0.655804, 484.90567, 126.677849)" style="">
+  <g transform="matrix(1, 0, 0, 1, -556.241394, -107.991447)">
+    <text style="fill: rgb(51, 51, 51); font-family: &quot;Roboto Slab&quot;; font-size: 16px; font-weight: 800; white-space: pre;" x="789.37" y="468.184" transform="matrix(1, 0, 0, 1, -47.859375, 2.444314)">Planning<tspan x="789.3699951171875" dy="1.1em">​</tspan>consultation<tspan x="789.3699951171875" dy="1.1em">​</tspan>API</text>
+    <line style="stroke: rgb(0, 0, 0); stroke-width: 6px;" x1="741.5" y1="448.172" x2="836.516" y2="448.172"/>
+    <line style="stroke: rgb(0, 0, 0); stroke-width: 6px;" x1="741.5" y1="515.859" x2="836.516" y2="515.859"/>
+  </g>
+  <g transform="matrix(0.388703, 0, 0, 0.388703, 616.44342, 395.190796)" style="">
     <path d="M -359.536 604.961 C -359.533 605.111 -359.524 605.261 -359.524 605.412 C -359.524 616.445 -376.8 637.013 -378.771 639.322 L -381.09 642.041 L -383.41 639.322 C -384.591 637.936 -391.282 629.977 -396.447 621.449 L -396.447 682.191 L -386.366 682.191 L -344.988 604.961 L -359.536 604.961 Z"/>
     <polygon points="-370.994 682.191 -319.216 682.191 -319.216 674.922 -356.42 654.99"/>
     <polygon points="-329.616 604.961 -350.021 643.046 -319.216 659.55 -319.216 604.961"/>
     <path d="M -381.09 637.343 C -381.09 637.343 -362.573 615.639 -362.573 605.412 C -362.573 595.185 -370.863 586.895 -381.09 586.895 C -391.317 586.895 -399.608 595.186 -399.608 605.412 C -399.608 615.639 -381.09 637.343 -381.09 637.343 Z M -381.091 594.121 C -377.1 594.121 -373.864 597.356 -373.864 601.347 C -373.864 605.339 -377.099 608.574 -381.091 608.574 C -385.083 608.574 -388.318 605.339 -388.318 601.347 C -388.317 597.357 -385.082 594.121 -381.091 594.121 Z"/>
   </g>
-  <rect x="502.139" y="52.945" width="50.079" height="55.924" style="stroke: url(#color-0); fill: none;"/>
-  <rect x="500" y="51.09" width="50.079" height="55.924" style="fill: url(#colour-users); stroke: url(#color-0);"/>
-  <text style="fill: url(#colour-users); font-family: &quot;Roboto Slab&quot;; font-size: 8px; font-weight: 300; white-space: pre;" x="503.149" y="58.488">Regulations</text>
-  <rect x="500" y="50.945" width="50.079" height="9.597" style="fill: url(#color-0);"/>
-  <text style="fill: url(#colour-users); font-family: &quot;Roboto Slab&quot;; font-size: 8px; font-weight: 300; white-space: pre;" x="502.151" y="58.521">Guidance</text>
 </svg>
