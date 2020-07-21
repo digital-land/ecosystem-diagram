@@ -68,7 +68,7 @@
   <ellipse style="fill: url(#colour-registers);" cx="640" cy="-250" rx="780" ry="475"/>
   <ellipse style="fill: url(#colour-standards);" cx="637.455" cy="-345.015" rx="780" ry="475"/>
   <text style="font-family: Roboto; font-size: 26px; white-space: pre;" x="101.015" y="862.154">People finding information about land, planning and housing where they are already looking</text>
-  <text transform="matrix(0.999971, 0.007456, -0.007456, 0.999971, -12.460264, -276.957458)" style="fill: rgb(51, 51, 51); font-family: Roboto; font-size: 26px; letter-spacing: 1px; white-space: pre;" bx:origin="0.489 0.483"><textPath startOffset="788" xlink:href="#users-path">A marketplace of digital services</textPath></text>
+  <text transform="matrix(0.999971, 0.007456, -0.007456, 0.999971, -12.460264, -276.957458)" style="fill: rgb(51, 51, 51); font-family: Roboto; font-size: 26px; letter-spacing: 1px; white-space: pre;" bx:origin="0.489 0.483"><textPath startOffset="500" xlink:href="#users-path">                          PropTech: a marketplace of digital services</textPath></text>
   <text transform="matrix(0.999991, 0.012029, -0.000659, 0.999998, -14.227677, -705.290405)" style="fill: rgb(51, 51, 51); font-family: Roboto; font-size: 26px; letter-spacing: 1px; white-space: pre;" bx:origin="0.489 0.483"><textPath startOffset="434" xlink:href="#path-3">       Evidence bases             Registers: authoratitve data you can trust           Other datasets</textPath></text>
   <text x="674.855" y="180.571" style="white-space: pre; fill: rgb(51, 51, 51); font-family: &quot;Roboto Slab&quot;; font-size: 28px;"> </text>
   <text style="font-family: Roboto; font-size: 26px; white-space: pre;" x="400.008" y="39.164">Data standards, policies and regulations</text>
